@@ -8,10 +8,10 @@
 
 :mailbox: Reach out to me!
 
-[![YouTube Badge](https://img.shields.io/badge/-MireyaElisse-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYDr7Mv7Cbq88L_JB-hM4Yg)&nbsp;&nbsp;&nbsp;
-[![GMail Badge](https://img.shields.io/badge/-mireyaelisse@gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mireyaelisse@gmail.com)
+[![YouTube Badge](https://img.shields.io/badge/-MireyaElisse-e74c3c?style=plastic&for-the-badge&labelColor=black&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYDr7Mv7Cbq88L_JB-hM4Yg)&nbsp;&nbsp;&nbsp;
+[![GMail Badge](https://img.shields.io/badge/-mireyaelisse@gmail-c0392b?style=plastic&for-the-badge&labelColor=black&logo=gmail&logoColor=white)](mailto:mireyaelisse@gmail.com)
 
 ### _Languages and Tools_:
 
-[![HTML5 Badge](https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E44D26)](#)&nbsp;&nbsp;&nbsp;&nbsp;[![CSS3 Badge](https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)&nbsp;&nbsp;&nbsp;
+[![HTML5 Badge](https://img.shields.io/badge/-HTML-E44D26?style=plastic&for-the-badge&labelColor=black&logo=html5&logoColor=E44D26)](#)&nbsp;&nbsp;&nbsp;&nbsp;[![CSS3 Badge](https://img.shields.io/badge/-CSS-1572B6?&style=plastic&for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=plastic&for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)&nbsp;&nbsp;&nbsp;
